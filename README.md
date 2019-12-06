@@ -6,4 +6,4 @@
   You can also have it as bookmark so when you click on the bookmark it will remove all the blurs for you automatically,
     to have it as bookmark simply save it in the url part of the bookmark,
     between 
-    ```javascript: ; javascript:void(0);```
+    ```javascript: ->script goes here<- ; javascript:void(0);```
