@@ -1,4 +1,4 @@
-# tinderLikesRMBlur
+# tinderLikesRMBlur {Deprecated 2020}
   Sneaky script to remove blur from likes on tinder
 # Usage
   To use the script simply copy and paste it into your console when you are on the page where it shows you who has liked you on tinder,
